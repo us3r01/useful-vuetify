@@ -1,1 +1,21 @@
-<h1><a id="Cutting_the_learning_curve_0"></a>Cutting the learning curve</h1> <p>Vuetify is a framework built with Vuejs encapsulating the material design theory.</p> <p>It is a powerful tool to speed up UX/UI development for web apps.</p> <p>I’ll contribute by compiling the most useful components I have built using Vuetify.</p> <p>¡Please, share this repo!</p> <h1><a id="Components_10"></a>Components</h1> <table> <thead> <tr> <th>Name</th> <th>Component Name</th> <th>Component dependencies</th> <th>Vuex implementation</th> </tr> </thead> <tbody> <tr> <td>Navigation Drawer</td> <td>NavDrawer.vue</td> <td>AppBar.vue</td> <td>Yes</td> </tr> </tbody> </table>
+# useful-vuetify
+A compilation of the most useful components for real webapps I have built using Vuetify 
+# Cutting the learning curve
+
+Vuetify is a framework built with Vuejs encapsulating the material design theory. 
+
+It is a powerful tool to speed up UX/UI development for web apps. 
+
+I'll contribute by compiling the most useful components I have built using Vuetify. 
+
+¡Please, share this repo!
+
+# Components
+
+|Name|Component Name|Component dependencies|Vuex implementation|
+|-|-|-|-|
+|Navigation Drawer|NavDrawer.vue|AppBar.vue|Yes|
+|Aligned Cards|CardsAligned.vue|None|No|
+|Aligned Cards|CardsAligned.vue|None|No|
+|Dinamyc Dialog|CardsAligned.vue|CardsAligned.vue, ObjectWithinDialog.vue|No
+Please, share this repo!
