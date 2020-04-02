@@ -17,5 +17,6 @@ I'll contribute by compiling the most useful components I have built using Vueti
 |Navigation Drawer|NavDrawer.vue|AppBar.vue|Yes|
 |Aligned Cards|CardsAligned.vue|None|No|
 |Aligned Cards|CardsAligned.vue|None|No|
-|Dinamyc Dialog|CardsAligned.vue|CardsAligned.vue, ObjectWithinDialog.vue|No
+|Dinamyc Dialog|CardsAligned.vue|CardsAligned.vue, ObjectWithinDialog.vue|No|
+|Centered Title|HeaderCentered.vue|None|No|
 Please, share this repo!
