@@ -6,9 +6,16 @@ Me gustaría contribuir al ecosistema compilando en este repositorio los compone
 
 # Componentes
 
-|Nombre|Nombre del componente|Componentes dependientes|Implementación con Vuex|
+|Nombre|Nombre del componente|Dependencias de componentes o librerías|Implementación con Vuex|
 |-|-|-|-|
-|Navigation Drawer|NavDrawer.vue|AppBar.vue|Si|
+|Navigation Drawer|NavDrawer.vue|AppBar.vue|Sí|
+|Aligned Cards|CardsAligned.vue|[AOS library](https://michalsnik.github.io/aos/)|No|
+|Dinamyc Dialog|CardsAligned.vue|CardsAligned.vue, ObjectWithinDialog.vue|No|
+|Centered Title|HeaderCentered.vue|Ninguna|No|
+|Calendar & Events|CalendarEvents.vue|[moment.js](https://momentjs.com/)|No|
+|Embed Spotify Playlists|EmbedSpotify.vue|Ninguna|No|
+|Sign in Card|SignInCard.vue|[Vuelidate](https://vuelidate.js.org/#sub-installation)|No|
 
+¡Compárte este repositorio!
 
-¡Por favor, comparte!
+Número de componentes: **7**

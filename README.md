@@ -12,11 +12,16 @@ I'll contribute by compiling the most useful components I have built using Vueti
 
 # Components
 
-|Name|Component Name|Component dependencies|Vuex implementation|
+|Name|Component Name|Components or libraries dependencies|Vuex implementation|
 |-|-|-|-|
 |Navigation Drawer|NavDrawer.vue|AppBar.vue|Yes|
-|Aligned Cards|CardsAligned.vue|None|No|
-|Aligned Cards|CardsAligned.vue|None|No|
+|Aligned Cards|CardsAligned.vue|[AOS library](https://michalsnik.github.io/aos/)|No|
 |Dinamyc Dialog|CardsAligned.vue|CardsAligned.vue, ObjectWithinDialog.vue|No|
 |Centered Title|HeaderCentered.vue|None|No|
+|Calendar & Events|CalendarEvents.vue|[moment.js](https://momentjs.com/)|No|
+|Embed Spotify Playlists|EmbedSpotify.vue|None|No|
+|Sign in Card|SignInCard.vue|[Vuelidate](https://vuelidate.js.org/#sub-installation)|No|
+
 Please, share this repo!
+
+Number of Components **7**
